@@ -1,4 +1,6 @@
 # Welcome!
+ 
+ ![Image](https://uploads-ssl.webflow.com/62a9e41d28a7ab25849bce9c/62fcab0db38819bef2500673_Is%20image%20processing%20part%20of%20machine%20learning.jpg)
 
 Welcome to my portfolio page!
 
