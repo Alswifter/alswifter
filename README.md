@@ -7,6 +7,6 @@
 👨‍💻 Aspiring C# Developer | ⚙️ Code Rookie of the Year (self-awarded)
 Currently deep in the mystical land of semicolons and curly braces. I’ve just completed a foundational C# course, which means I now speak fluent public static void Main() and occasionally dream in .NET. 🧠💻
 
-My passion for Microsoft development is as strong as my coffee (and trust me, that’s saying a lot). On a quest to turn bugs into features and “it compiles!” into “it actually works!” — one line of code at a time.
+My passion for Microsoft development is as strong as my coffee (and trust me, that’s saying a lot). On a quest to turn bugs into features and “it compiles!” into “it actually works!” -one line of code at a time.
 
 Always learning, always debugging, and always ready to CTRL+Z my way out of trouble.
